@@ -24,7 +24,7 @@ This Team project is part of the requiremtents of "ECE342 - Digital Circuits" co
 
 ## Team members
 
-  Abdelrhman Ahmed Sayed Ahmed 
+  Abdelrhman Ahmed Sayed Ahmed (Leader)
   
   mohamed Ahmed Sayed Ahmed 
   
